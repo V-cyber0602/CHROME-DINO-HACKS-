@@ -1,2 +1,2 @@
 # CHROME-DINO-HACKS-
-This contains dangerous hacks 
+This contains Hacks
