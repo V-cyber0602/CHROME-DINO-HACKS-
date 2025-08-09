@@ -1,0 +1,5 @@
+# The code to be immortal 
+Runner.prototype.gameOver=function(){}
+# The code to increase speed 
+Runner.instance_.setSpeed(1000)
+I hope you enjoy this 
